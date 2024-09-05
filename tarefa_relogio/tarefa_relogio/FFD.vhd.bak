@@ -1,0 +1,20 @@
+LIBRARY IEEE;
+use IEEE.std_logic_1164.all;
+
+
+Entity FFD is 
+PORT (c , d : in std_logic;
+q , qnot : out std_logic);
+end FFD;
+
+architecure aqr of FFD is 
+begin 
+
+PROCESS(c)
+BEGIN
+IF c’EVENT and c=‘1’ THEN
+q <= d;
+END IF;
+END PROCESS;
+
+end arq;

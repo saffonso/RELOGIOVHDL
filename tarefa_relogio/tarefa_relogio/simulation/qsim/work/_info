@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alunos\Downloads\tarefa_relogio\tarefa_relogio\simulation\qsim
+vRelogio
+Z1 I[UM2E3F:LL6bQMfIfIKWe0
+Z2 VkzY;h6igAA8gnb]PgJiz13
+Z3 dC:\Users\alunos\Downloads\tarefa_relogio\tarefa_relogio\simulation\qsim
+Z4 w1722634544
+Z5 8tarefa_relogio.vo
+Z6 Ftarefa_relogio.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|tarefa_relogio.vo|
+Z9 o-work work -O0
+Z10 n@relogio
+!i10b 1
+Z11 !s100 N`Ia5a9n^=Q2Dm[iU0ldd0
+!s85 0
+Z12 !s108 1722634545.270000
+Z13 !s107 tarefa_relogio.vo|
+!s101 -O0
+vRelogio_vlg_check_tst
+!i10b 1
+Z14 !s100 cWg[QeOa?aUPde:7NcTd22
+Z15 IGhnYH;gohj7RhTU5fPX4V3
+Z16 V=`<2Si?_mha@i4od<IZIg0
+R3
+R4
+Z17 8tarefa_relogio.vt
+Z18 Ftarefa_relogio.vt
+L0 69
+R7
+r1
+!s85 0
+31
+Z19 !s108 1722634545.395000
+Z20 !s107 tarefa_relogio.vt|
+Z21 !s90 -work|work|tarefa_relogio.vt|
+!s101 -O0
+R9
+Z22 n@relogio_vlg_check_tst
+vRelogio_vlg_sample_tst
+!i10b 1
+Z23 !s100 RDza9b06N5IzTCKV0ZH5U2
+Z24 IBHDMB3=B2zSTX:1lFafjK1
+Z25 VTQinJjChS^>JM9Jgc>Y7=3
+R3
+R4
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+Z26 n@relogio_vlg_sample_tst
+vRelogio_vlg_vec_tst
+!i10b 1
+Z27 !s100 ]bE^SFf;TV0z60cAARLTI1
+Z28 ID6:IFA3WJ7eggAzHEK1bH2
+Z29 VYgQaNLX3m7:=F9J3>kW`71
+R3
+R4
+R17
+R18
+Z30 L0 892
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+Z31 n@relogio_vlg_vec_tst
